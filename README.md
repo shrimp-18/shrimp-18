@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrimp-18
 - 👀 I’m interested in astronomy and love participating in hackathons and fun projects.
 - 🌱 I’m currently learning many languages like CSS, brushing up on JS and HTML for my new project.
-- 💞️ I’m looking to collaborate on NASA Space Apps Challenge
+-    I usually code in JAVA, C# and GDScript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Im a beginner :) 
 
