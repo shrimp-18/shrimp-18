@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @shrimp-18
-- 👀 I’m interested in astronomy and love participating in hackathons and fun projects.
-- 🌱 I’m currently learning many languages like CSS, brushing up on JS and HTML for my new project.
--    I usually code in JAVA, C# and GDScript
+- 👋 Heeyy there, I’m Neha, a 17-year-old developer from India.
+- 👀 I’m interested in astronomy and enjoy creating fun projects (both hardware and software).
+- 🌱 I’m into Frontend web-dev and game-dev these days, so so funn :3
+-    I usually code in JS,HTML,CSS and GDScript, and I use KiCad for hardwaree.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Im a beginner :) 
+- ⚡ Fun fact: Im a beginner :D
+
+- hmu on hackclub slack @neha or email me nehaarya1842008@gmail.com (I religiously check my mails).
 
 <!---
 shrimp-18/shrimp-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
