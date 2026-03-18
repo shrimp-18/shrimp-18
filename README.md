@@ -1,9 +1,7 @@
-- 👋 Heeyy there, I’m Neha, a 17-year-old developer from India.
-- 👀 I’m interested in astronomy and enjoy creating fun projects (both hardware and software).
-- 🌱 I’m into Frontend web-dev and game-dev these days, so so funn :3
--    I usually code in JS,HTML,CSS and GDScript, and I use KiCad for hardwaree.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Im a beginner :D
+- Heeyy there, I’m Neha, a 17-year-old developer from India.
+- I’m interested in astronomy and enjoy creating fun projects (both hardware and software).
+- I’m into Frontend web-dev and game-dev these days, so so funn :3
+- I usually code in JS and GDScript, and I use KiCad for hardware.
 
 - hmu on hackclub slack @neha or email me nehaarya1842008@gmail.com (I religiously check my mails).
 
