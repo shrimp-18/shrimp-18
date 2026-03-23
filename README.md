@@ -17,6 +17,7 @@ I love to build cool projects that may/may not solve world crisis.
 A 2D game built in Godot
   <br>
 --><a href='https://github.com/shrimp-18/SpringtimeLife'> Repository </a>
+  <br>
 --><a href='https://nehaa-18.itch.io/springtime-life'> Game on itch.io </a>
 </td>
 
