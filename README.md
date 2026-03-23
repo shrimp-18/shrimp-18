@@ -2,7 +2,7 @@ Hey, I'm Neha!
 🎮 games • 🌐 web • 🔌 hardware • 🎨 art
 I love to build cool projects that may/may not solve world crisis.
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3098&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
 </p>
 
@@ -27,7 +27,8 @@ Showcasing all my personal information with a cool design aspect
 <tr>
 <td width="50%">
 Custom Gaming Console
-()
+<a href='https://github.com/shrimp-18/GameBit'>Repo </a>
+
 </td>
 </tr>
 </table>
