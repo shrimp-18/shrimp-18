@@ -1,5 +1,6 @@
 Hey, I'm Neha!
 🎮 games • 🌐 web • 🔌 hardware • 🎨 art
+<br>
 I love to build cool projects that may/may not solve world crisis.
 
 <p align="left">
@@ -12,22 +13,22 @@ Featured Projects :-
 <table>
 <tr>
 <td width="50%">
-<h3>SpringTime Life</h3>
+<h3>SpringTime Life 🍃</h3>
 A 2D game built in Godot
-(https://nehaa-18.itch.io/springtime-life)
+<a href='https://nehaa-18.itch.io/springtime-life'> Game on itch.io </a>
 </td>
 
 <td width="50%">
-<h3>My Cool Personal Website!</h3>
+<h3>My Cool Personal Website! 🔱</h3>
 Showcasing all my personal information with a cool design aspect
-(https://nehaa.xyz)
+<a href='https://nehaa.xyz'>Repository </a>
 </td>
-</tr>
 
-<tr>
+
 <td width="50%">
+<h3>GameBit ! 🎮 </h3>
 Custom Gaming Console
-<a href='https://github.com/shrimp-18/GameBit'>Repo </a>
+<a href='https://github.com/shrimp-18/GameBit'>Repository </a>
 
 </td>
 </tr>
