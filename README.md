@@ -1,11 +1,34 @@
-- Heeyy there, I’m Neha, a 17-year-old developer from India.
-- I’m interested in astronomy and enjoy creating fun projects (both hardware and software).
-- I’m into Frontend web-dev and game-dev these days, so so funn :3
-- I usually code in JS and GDScript, and I use KiCad for hardware.
+Hey, I'm Neha!
+🎮 games • 🌐 web • 🔌 hardware • 🎨 art
+I love to build cool projects that may/may not solve world crisis.
 
-- hmu on hackclub slack @neha or email me nehaarya1842008@gmail.com (I religiously check my mails).
+https://github-readme-stats.hackclub.dev/api/wakatime?username=3098&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 
-<!---
-shrimp-18/shrimp-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Featured Projects :-
+## 🚀 featured projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>SpringTime Life</h3>
+A 2D game built in Godot
+(https://nehaa-18.itch.io/springtime-life)
+</td>
+
+<td width="50%">
+<h3>My Cool Personal Website!</h3>
+Showcasing all my personal information with a cool design aspect
+(https://nehaa.xyz)
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+Custom Gaming Console
+()
+</td>
+</tr>
+</table>
+
+
+
