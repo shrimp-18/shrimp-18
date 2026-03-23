@@ -2,7 +2,9 @@ Hey, I'm Neha!
 🎮 games • 🌐 web • 🔌 hardware • 🎨 art
 I love to build cool projects that may/may not solve world crisis.
 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=3098&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3098&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
+</p>
 
 Featured Projects :-
 ## 🚀 featured projects
