@@ -15,20 +15,23 @@ I love to build cool projects that may/may not solve world crisis.
 <td width="30%">
 <h3>SpringTime Life 🍃</h3>
 A 2D game built in Godot
-<a href='https://nehaa-18.itch.io/springtime-life'> Game on itch.io </a>
+  <br>
+--><a href='https://nehaa-18.itch.io/springtime-life'> Game on itch.io </a>
 </td>
 
 <td width="30%">
 <h3>My Cool Personal Website! 🔱</h3>
 Showcasing all my personal information with a cool design aspect
-<a href='https://nehaa.xyz'>Repository </a>
+  <br>
+--><a href='https://nehaa.xyz'>Repository </a>
 </td>
 
 
 <td width="30%">
 <h3>GameBit ! 🎮 </h3>
 Custom Gaming Console
-<a href='https://github.com/shrimp-18/GameBit'>Repository </a>
+<br>
+--><a href='https://github.com/shrimp-18/GameBit'>Repository </a>
 
 </td>
 </tr>
